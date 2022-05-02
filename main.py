@@ -1,5 +1,5 @@
 
-
+#faulty Calculator
 firstNum = int(input("Enter First Number "))
 operation = input("Enter Which Operation do you want to perform ")
 secondNum = int(input("Enter Second Number "))
