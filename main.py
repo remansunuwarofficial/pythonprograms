@@ -47,5 +47,5 @@ else:
 
 
 print(result)
-
+print(len(result))
 
